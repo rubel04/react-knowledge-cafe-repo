@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/bmZVxLg/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/7VydcZ6/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 45,
+        "hashtag": ["programming", "coding", "technology"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/bmZVxLg/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "Cooking Masterclass",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/7VydcZ6/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 30,
+        "hashtag": ["cooking", "recipes", "food"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/bmZVxLg/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "Exploring Space",
+        "author": "Astronaut Andy",
+        "author_img": "https://i.ibb.co/7VydcZ6/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 60,
+        "hashtag": ["space", "astronomy", "exploration"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/bmZVxLg/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "Traveling the World",
+        "author": "Wanderlust Wendy",
+        "author_img": "https://i.ibb.co/7VydcZ6/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "posted_date": "2023-09-06",
+        "reading_time": 50,
+        "hashtag": ["travel", "adventure", "exploration"]
+    }
+]
